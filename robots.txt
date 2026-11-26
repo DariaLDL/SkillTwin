@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skilltwin-academy.pages.dev/sitemap.xml
